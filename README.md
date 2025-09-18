@@ -2,6 +2,33 @@
 
 This repository contains various datasets for data analysis, machine learning, and educational purposes. Below is a brief description of each dataset available in this repository.
 
+### Want to download any csv file for local use? Follow the steps mentioned below: 👇
+
+<ol>
+  <li>Go to a csv file in a repository of your choice</li>
+  <li>From the top right bar just above the file section, select and click on "Raw" button</li>
+  <li>A page will appear with comma separated data with no styling</li>
+  <li>Copy the page url</li>
+  <li>Make a folder in your desktop</li>
+  <li>Open that folder in your favourite code editor and make a simple python file inside the folder. Name it as you please.</li>
+  <li>Copy this code [From the section below]</li>
+  <li>Run the python file</li>
+  <li>The csv file will get downloaded within sometime, depending upon file size</li>
+  <li>Now you are ready the use it locally!!</li>
+
+</ol>
+
+  ``` 
+  import requests
+  import pandas as pd
+  url = '{(copied url here)}' 
+  res = requests.get(url, allow_redirects=True)
+  with open('download_file_name.csv','wb') as file:
+      file.write(res.content)
+  download_file_name = pd.read_csv('download_file_name.csv') 
+  ```  
+
+
 ## Available Datasets
 
 ### 1. BMI_Data.csv
@@ -54,6 +81,8 @@ This repository contains various datasets for data analysis, machine learning, a
 ### 13. test.csv
    - A test dataset.
    - Used for validation and experimentation.
+
+[Explore More Datasets on my Kaggle](https://www.kaggle.com/datasets/princelv84/csv-datasets)
 
 ## Usage
 These datasets can be used for:
