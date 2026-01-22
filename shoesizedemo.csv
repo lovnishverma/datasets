@@ -1,8 +1,9 @@
 ﻿name,age,hieght,weight,gender,shoesize
-Aman,25,5.5,70,Male,8
+Aman,25,5.5,,Male,8
 Anu,25,4.2,55,Female,4
 Sarita,20,4.1,49,Female,4.5
-Babita,30,4,50,Female,5
+Babita,,,50,Female,5
 Chaman,35,5.1,60,Male,7
 Lovnish,26,5.4,75,Male,8
 Ravi Kant,23,5.2,70,Male,9
+Anu,25,4.2,55,Female,4
