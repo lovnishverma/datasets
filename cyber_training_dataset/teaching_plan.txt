@@ -1,0 +1,33 @@
+
+CYBER POLICE DATA ANALYSIS TRAINING PLAN
+
+Module 1: Basics of Pandas
+- Loading CSV files
+- Exploring data (.head, .info, .describe)
+
+Module 2: Data Cleaning
+- Handling missing values
+- Removing duplicates
+- Converting timestamps
+
+Module 3: Investigation Techniques
+- Group by IP to find repeat offenders
+- Total fraud amount by crime type
+- Merge datasets (crime + suspects)
+
+Module 4: Network Analysis
+- Filter threat_flag = 1
+- Identify suspicious IP activity
+
+Module 5: Visualization (Matplotlib)
+- Crime distribution (bar chart)
+- Fraud trends over time (line chart)
+- Threat activity by IP
+
+Module 6: Case Study
+- Identify highest fraud IP
+- Check if present in threat logs
+- Match with suspect risk level
+
+Final Task:
+Solve a full investigation scenario using all datasets.

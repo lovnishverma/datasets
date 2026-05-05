@@ -1,0 +1,501 @@
+case_id,timestamp,crime_type,location,ip_address,user_id,device_type,amount_lost,status
+CC0001,2026-03-28 08:41:24,Identity Theft,Mumbai,192.168.44.120,U3992,Mobile,6324,Open
+CC0002,2026-03-13 08:41:24,Identity Theft,Chandigarh,192.168.19.89,U6310,Mobile,40940,Under Investigation
+CC0003,2026-03-07 08:41:24,Phishing,Bangalore,192.168.133.236,U4436,Mobile,47465,Closed
+CC0004,2026-03-07 08:41:24,Identity Theft,Bangalore,192.168.36.157,U5688,Laptop,32529,Under Investigation
+CC0005,2026-03-09 08:41:24,Identity Theft,Bangalore,192.168.166.163,U2326,Mobile,31716,Open
+CC0006,2026-05-02 08:41:24,Phishing,Chandigarh,192.168.93.30,U5346,Desktop,14197,Closed
+CC0007,2026-03-12 08:41:24,UPI Fraud,Chandigarh,192.168.88.178,U6071,Mobile,31659,Open
+CC0008,2026-03-31 08:41:24,Identity Theft,Bangalore,192.168.174.210,U7357,Mobile,12683,Under Investigation
+CC0009,2026-04-18 08:41:24,UPI Fraud,Delhi,192.168.230.121,U3122,Desktop,18059,Open
+CC0010,2026-04-02 08:41:24,Identity Theft,Mumbai,192.168.194.220,U3716,Desktop,2293,Open
+CC0011,2026-03-27 08:41:24,Identity Theft,Bangalore,192.168.186.195,U2057,Laptop,42399,Open
+CC0012,2026-04-26 08:41:24,Identity Theft,Mumbai,192.168.26.93,U5299,Desktop,37826,Closed
+CC0013,2026-03-22 08:41:24,Ransomware,Bangalore,192.168.219.113,U2097,Laptop,15420,Open
+CC0014,2026-04-30 08:41:24,Ransomware,Delhi,192.168.170.30,U9102,Mobile,38281,Under Investigation
+CC0015,2026-03-09 08:41:24,Identity Theft,Bangalore,192.168.139.219,U3605,Laptop,47221,Closed
+CC0016,2026-04-17 08:41:24,UPI Fraud,Delhi,192.168.217.1,U7140,Desktop,15863,Under Investigation
+CC0017,2026-03-11 08:41:24,Ransomware,Mumbai,192.168.145.99,U6186,Laptop,26439,Open
+CC0018,2026-03-25 08:41:24,UPI Fraud,Chandigarh,192.168.176.73,U6754,Laptop,10256,Closed
+CC0019,2026-03-18 08:41:24,Identity Theft,Chandigarh,192.168.72.246,U6311,Desktop,10118,Open
+CC0020,2026-03-25 08:41:24,UPI Fraud,Mumbai,192.168.63.100,U2985,Laptop,19676,Under Investigation
+CC0021,2026-03-11 08:41:24,Ransomware,Mumbai,192.168.68.126,U1763,Desktop,21490,Closed
+CC0022,2026-03-10 08:41:24,Phishing,Chandigarh,192.168.186.45,U6863,Desktop,25072,Under Investigation
+CC0023,2026-03-13 08:41:24,Ransomware,Chandigarh,192.168.187.106,U4177,Mobile,9730,Open
+CC0024,2026-03-08 08:41:24,Ransomware,Chandigarh,192.168.108.54,U1623,Desktop,35133,Under Investigation
+CC0025,2026-04-02 08:41:24,Ransomware,Mumbai,192.168.32.244,U8412,Laptop,31819,Closed
+CC0026,2026-04-17 08:41:24,Identity Theft,Mumbai,192.168.21.53,U1794,Mobile,28960,Open
+CC0027,2026-03-08 08:41:24,Identity Theft,Bangalore,192.168.172.135,U9487,Mobile,46390,Open
+CC0028,2026-03-26 08:41:24,Identity Theft,Bangalore,192.168.38.208,U9970,Desktop,48792,Closed
+CC0029,2026-03-30 08:41:24,Identity Theft,Delhi,192.168.46.220,U7014,Mobile,15182,Closed
+CC0030,2026-04-24 08:41:24,Identity Theft,Bangalore,192.168.16.47,U6102,Laptop,27290,Open
+CC0031,2026-04-19 08:41:24,Phishing,Chandigarh,192.168.140.53,U9120,Desktop,3034,Under Investigation
+CC0032,2026-03-24 08:41:24,Ransomware,Chandigarh,192.168.56.226,U1531,Mobile,9335,Under Investigation
+CC0033,2026-03-10 08:41:24,Identity Theft,Mumbai,192.168.202.201,U4549,Mobile,44371,Open
+CC0034,2026-03-14 08:41:24,Ransomware,Delhi,192.168.244.91,U2799,Mobile,12434,Closed
+CC0035,2026-03-10 08:41:24,Phishing,Chandigarh,192.168.102.226,U3324,Mobile,47431,Under Investigation
+CC0036,2026-03-25 08:41:24,Identity Theft,Delhi,192.168.84.9,U8557,Mobile,8883,Open
+CC0037,2026-04-28 08:41:24,Phishing,Mumbai,192.168.147.23,U3133,Desktop,13361,Open
+CC0038,2026-04-08 08:41:24,Identity Theft,Chandigarh,192.168.7.77,U6608,Desktop,4217,Under Investigation
+CC0039,2026-04-17 08:41:24,Ransomware,Chandigarh,192.168.48.181,U5143,Laptop,28252,Under Investigation
+CC0040,2026-03-08 08:41:24,Identity Theft,Mumbai,192.168.123.206,U4719,Desktop,49843,Open
+CC0041,2026-05-04 08:41:24,UPI Fraud,Mumbai,192.168.118.103,U1574,Desktop,4930,Closed
+CC0042,2026-03-13 08:41:24,UPI Fraud,Chandigarh,192.168.39.132,U3366,Desktop,23866,Under Investigation
+CC0043,2026-03-27 08:41:24,Phishing,Bangalore,192.168.241.131,U1636,Mobile,26804,Closed
+CC0044,2026-04-29 08:41:24,UPI Fraud,Chandigarh,192.168.224.19,U6176,Desktop,1474,Under Investigation
+CC0045,2026-03-09 08:41:24,UPI Fraud,Chandigarh,192.168.29.80,U3811,Laptop,47271,Open
+CC0046,2026-04-16 08:41:24,Phishing,Mumbai,192.168.230.84,U2132,Mobile,37792,Closed
+CC0047,2026-03-15 08:41:24,Ransomware,Bangalore,192.168.53.59,U8710,Mobile,11594,Closed
+CC0048,2026-04-16 08:41:24,UPI Fraud,Mumbai,192.168.8.180,U8782,Desktop,12606,Closed
+CC0049,2026-04-05 08:41:24,UPI Fraud,Mumbai,192.168.103.106,U7856,Laptop,29819,Open
+CC0050,2026-05-01 08:41:24,Phishing,Chandigarh,192.168.205.121,U9755,Desktop,21294,Closed
+CC0051,2026-04-14 08:41:24,Ransomware,Delhi,192.168.202.83,U2098,Desktop,19046,Closed
+CC0052,2026-03-21 08:41:24,UPI Fraud,Mumbai,192.168.173.194,U4050,Mobile,31989,Open
+CC0053,2026-04-20 08:41:24,Phishing,Chandigarh,192.168.120.52,U3876,Laptop,24018,Closed
+CC0054,2026-04-11 08:41:24,Identity Theft,Bangalore,192.168.32.227,U1607,Mobile,12541,Under Investigation
+CC0055,2026-03-06 08:41:24,Identity Theft,Chandigarh,192.168.122.193,U3042,Laptop,11599,Open
+CC0056,2026-04-29 08:41:24,Identity Theft,Bangalore,192.168.30.194,U1189,Laptop,30263,Under Investigation
+CC0057,2026-03-23 08:41:24,Phishing,Bangalore,192.168.155.180,U9029,Mobile,1522,Closed
+CC0058,2026-03-12 08:41:24,UPI Fraud,Chandigarh,192.168.111.166,U8019,Laptop,44778,Closed
+CC0059,2026-04-30 08:41:24,Phishing,Mumbai,192.168.143.91,U4842,Mobile,8371,Closed
+CC0060,2026-03-15 08:41:24,UPI Fraud,Bangalore,192.168.79.226,U8363,Desktop,47045,Closed
+CC0061,2026-05-01 08:41:24,Identity Theft,Chandigarh,192.168.163.94,U2564,Mobile,17921,Open
+CC0062,2026-03-23 08:41:24,Identity Theft,Bangalore,192.168.156.247,U3592,Desktop,42285,Closed
+CC0063,2026-03-13 08:41:24,Phishing,Chandigarh,192.168.226.216,U8794,Mobile,30988,Closed
+CC0064,2026-05-03 08:41:24,Ransomware,Delhi,192.168.225.90,U3733,Laptop,34572,Open
+CC0065,2026-03-07 08:41:24,Identity Theft,Chandigarh,192.168.187.215,U5924,Laptop,3190,Under Investigation
+CC0066,2026-03-31 08:41:24,UPI Fraud,Bangalore,192.168.79.96,U6169,Mobile,41447,Closed
+CC0067,2026-03-12 08:41:24,Ransomware,Chandigarh,192.168.142.143,U2674,Mobile,41629,Closed
+CC0068,2026-04-03 08:41:24,Identity Theft,Mumbai,192.168.140.4,U1029,Laptop,13583,Under Investigation
+CC0069,2026-04-23 08:41:24,Phishing,Mumbai,192.168.12.112,U1648,Desktop,20235,Closed
+CC0070,2026-03-21 08:41:24,Ransomware,Chandigarh,192.168.199.225,U7263,Desktop,37673,Under Investigation
+CC0071,2026-03-10 08:41:24,Ransomware,Mumbai,192.168.153.95,U8719,Desktop,28322,Under Investigation
+CC0072,2026-03-11 08:41:24,Ransomware,Chandigarh,192.168.155.231,U7146,Mobile,20684,Closed
+CC0073,2026-04-29 08:41:24,Ransomware,Bangalore,192.168.131.21,U5034,Laptop,32064,Under Investigation
+CC0074,2026-03-23 08:41:24,Ransomware,Bangalore,192.168.89.179,U8940,Laptop,28364,Closed
+CC0075,2026-04-29 08:41:24,Identity Theft,Chandigarh,192.168.168.90,U3895,Desktop,34201,Open
+CC0076,2026-04-09 08:41:24,Phishing,Chandigarh,192.168.88.98,U4212,Desktop,23188,Closed
+CC0077,2026-03-17 08:41:24,UPI Fraud,Chandigarh,192.168.185.204,U5393,Desktop,24747,Under Investigation
+CC0078,2026-03-23 08:41:24,Phishing,Bangalore,192.168.145.228,U1847,Laptop,11169,Closed
+CC0079,2026-04-27 08:41:24,Phishing,Delhi,192.168.239.222,U4534,Mobile,711,Closed
+CC0080,2026-04-08 08:41:24,Phishing,Chandigarh,192.168.214.132,U6730,Desktop,6593,Under Investigation
+CC0081,2026-04-04 08:41:24,Identity Theft,Chandigarh,192.168.197.87,U1356,Desktop,41980,Open
+CC0082,2026-04-22 08:41:24,UPI Fraud,Chandigarh,192.168.65.252,U3556,Laptop,41452,Closed
+CC0083,2026-04-16 08:41:24,Phishing,Delhi,192.168.15.133,U3506,Laptop,25171,Under Investigation
+CC0084,2026-03-23 08:41:24,Identity Theft,Mumbai,192.168.159.19,U9023,Mobile,10156,Closed
+CC0085,2026-04-12 08:41:24,Ransomware,Chandigarh,192.168.184.11,U4287,Mobile,5364,Closed
+CC0086,2026-05-03 08:41:24,UPI Fraud,Mumbai,192.168.81.245,U2629,Mobile,5230,Closed
+CC0087,2026-04-18 08:41:24,Identity Theft,Chandigarh,192.168.11.40,U4379,Mobile,21773,Closed
+CC0088,2026-04-22 08:41:24,Phishing,Bangalore,192.168.171.178,U9986,Mobile,27063,Under Investigation
+CC0089,2026-04-03 08:41:24,Identity Theft,Mumbai,192.168.190.87,U9035,Mobile,35869,Under Investigation
+CC0090,2026-04-16 08:41:24,Identity Theft,Bangalore,192.168.14.5,U7700,Mobile,36525,Closed
+CC0091,2026-04-16 08:41:24,Phishing,Delhi,192.168.165.215,U1801,Mobile,23396,Closed
+CC0092,2026-04-22 08:41:24,Identity Theft,Chandigarh,192.168.24.162,U8694,Desktop,30216,Closed
+CC0093,2026-04-12 08:41:24,Identity Theft,Delhi,192.168.32.148,U8671,Mobile,34419,Under Investigation
+CC0094,2026-05-01 08:41:24,Identity Theft,Delhi,192.168.180.107,U6708,Desktop,22786,Under Investigation
+CC0095,2026-05-04 08:41:24,Ransomware,Mumbai,192.168.229.194,U9706,Mobile,17743,Open
+CC0096,2026-04-15 08:41:24,Phishing,Bangalore,192.168.72.110,U9892,Desktop,3392,Open
+CC0097,2026-04-29 08:41:24,Ransomware,Bangalore,192.168.88.217,U7406,Laptop,40755,Open
+CC0098,2026-03-28 08:41:24,Ransomware,Bangalore,192.168.43.149,U1109,Mobile,1647,Closed
+CC0099,2026-03-13 08:41:24,Phishing,Mumbai,192.168.13.117,U6581,Desktop,29153,Closed
+CC0100,2026-04-06 08:41:24,Ransomware,Bangalore,192.168.234.23,U7662,Mobile,25512,Under Investigation
+CC0101,2026-03-30 08:41:24,UPI Fraud,Delhi,192.168.58.187,U7121,Laptop,40218,Open
+CC0102,2026-03-31 08:41:24,Identity Theft,Bangalore,192.168.176.170,U6631,Mobile,38699,Open
+CC0103,2026-04-18 08:41:24,Identity Theft,Delhi,192.168.182.107,U1254,Mobile,1530,Closed
+CC0104,2026-03-29 08:41:24,Phishing,Chandigarh,192.168.130.251,U4431,Mobile,39189,Under Investigation
+CC0105,2026-04-27 08:41:24,Identity Theft,Mumbai,192.168.244.63,U7738,Laptop,5098,Closed
+CC0106,2026-04-06 08:41:24,Phishing,Bangalore,192.168.236.92,U6828,Desktop,22661,Open
+CC0107,2026-04-05 08:41:24,Ransomware,Delhi,192.168.220.61,U7026,Desktop,5161,Closed
+CC0108,2026-05-05 08:41:24,Ransomware,Delhi,192.168.154.181,U5391,Laptop,43248,Open
+CC0109,2026-04-28 08:41:24,Phishing,Chandigarh,192.168.115.125,U5143,Desktop,18144,Under Investigation
+CC0110,2026-04-21 08:41:24,Ransomware,Mumbai,192.168.220.180,U2445,Desktop,11012,Under Investigation
+CC0111,2026-04-30 08:41:24,Ransomware,Chandigarh,192.168.174.84,U5476,Desktop,49583,Closed
+CC0112,2026-03-06 08:41:24,Ransomware,Chandigarh,192.168.64.119,U4313,Laptop,573,Under Investigation
+CC0113,2026-03-19 08:41:24,UPI Fraud,Mumbai,192.168.17.12,U7811,Mobile,18406,Closed
+CC0114,2026-04-19 08:41:24,Ransomware,Chandigarh,192.168.9.145,U2231,Desktop,35435,Open
+CC0115,2026-04-24 08:41:24,Phishing,Chandigarh,192.168.211.114,U3404,Laptop,46109,Open
+CC0116,2026-03-16 08:41:24,Ransomware,Mumbai,192.168.92.188,U9277,Desktop,15295,Under Investigation
+CC0117,2026-03-27 08:41:24,Phishing,Chandigarh,192.168.47.86,U5399,Desktop,31376,Closed
+CC0118,2026-04-28 08:41:24,Phishing,Bangalore,192.168.219.118,U8263,Desktop,9788,Closed
+CC0119,2026-04-28 08:41:24,Identity Theft,Mumbai,192.168.235.134,U4368,Desktop,49013,Open
+CC0120,2026-03-11 08:41:24,Ransomware,Delhi,192.168.234.88,U4812,Mobile,17567,Under Investigation
+CC0121,2026-03-09 08:41:24,Identity Theft,Bangalore,192.168.158.174,U2102,Mobile,23958,Under Investigation
+CC0122,2026-04-12 08:41:24,Ransomware,Chandigarh,192.168.17.201,U9390,Mobile,33702,Open
+CC0123,2026-04-28 08:41:24,UPI Fraud,Chandigarh,192.168.222.123,U6051,Mobile,20802,Closed
+CC0124,2026-03-15 08:41:24,Phishing,Mumbai,192.168.24.180,U3651,Desktop,45035,Under Investigation
+CC0125,2026-04-09 08:41:24,Ransomware,Mumbai,192.168.97.143,U4874,Laptop,20402,Open
+CC0126,2026-03-17 08:41:24,UPI Fraud,Delhi,192.168.125.115,U5191,Laptop,47462,Closed
+CC0127,2026-03-10 08:41:24,Phishing,Mumbai,192.168.38.122,U6555,Laptop,18997,Closed
+CC0128,2026-04-20 08:41:24,Ransomware,Chandigarh,192.168.255.93,U1434,Mobile,41552,Under Investigation
+CC0129,2026-03-24 08:41:24,Phishing,Mumbai,192.168.224.155,U1702,Desktop,46724,Closed
+CC0130,2026-03-15 08:41:24,Ransomware,Chandigarh,192.168.103.114,U6410,Mobile,36207,Open
+CC0131,2026-03-13 08:41:24,Identity Theft,Delhi,192.168.67.71,U9461,Mobile,23011,Open
+CC0132,2026-04-09 08:41:24,Phishing,Delhi,192.168.251.187,U1680,Desktop,15229,Closed
+CC0133,2026-03-07 08:41:24,Phishing,Bangalore,192.168.27.11,U2593,Laptop,11714,Open
+CC0134,2026-04-22 08:41:24,Identity Theft,Bangalore,192.168.149.185,U9411,Desktop,24370,Closed
+CC0135,2026-04-01 08:41:24,Phishing,Mumbai,192.168.34.132,U5602,Desktop,32315,Under Investigation
+CC0136,2026-05-04 08:41:24,UPI Fraud,Bangalore,192.168.252.217,U7902,Desktop,4451,Closed
+CC0137,2026-03-25 08:41:24,Ransomware,Chandigarh,192.168.123.40,U8574,Desktop,45655,Closed
+CC0138,2026-03-31 08:41:24,Ransomware,Chandigarh,192.168.131.8,U3658,Desktop,3192,Under Investigation
+CC0139,2026-04-05 08:41:24,Ransomware,Mumbai,192.168.185.216,U1845,Desktop,41990,Open
+CC0140,2026-04-23 08:41:24,Identity Theft,Mumbai,192.168.95.234,U3493,Desktop,3364,Open
+CC0141,2026-03-23 08:41:24,Identity Theft,Bangalore,192.168.48.140,U3378,Mobile,35437,Open
+CC0142,2026-04-09 08:41:24,UPI Fraud,Delhi,192.168.234.148,U9312,Laptop,9649,Closed
+CC0143,2026-03-24 08:41:24,Phishing,Bangalore,192.168.126.17,U4824,Desktop,7706,Under Investigation
+CC0144,2026-03-10 08:41:24,Identity Theft,Bangalore,192.168.224.93,U5893,Laptop,8792,Closed
+CC0145,2026-05-04 08:41:24,Ransomware,Mumbai,192.168.116.20,U4560,Desktop,39274,Open
+CC0146,2026-04-04 08:41:24,Identity Theft,Mumbai,192.168.249.25,U5761,Desktop,14371,Under Investigation
+CC0147,2026-04-13 08:41:24,Ransomware,Delhi,192.168.13.52,U6953,Desktop,44657,Closed
+CC0148,2026-03-29 08:41:24,Ransomware,Delhi,192.168.100.41,U1927,Laptop,13421,Open
+CC0149,2026-05-03 08:41:24,Phishing,Delhi,192.168.235.83,U9182,Desktop,19491,Closed
+CC0150,2026-03-06 08:41:24,Phishing,Bangalore,192.168.120.28,U6001,Desktop,27117,Open
+CC0151,2026-03-12 08:41:24,Phishing,Mumbai,192.168.3.89,U8571,Mobile,47400,Closed
+CC0152,2026-03-19 08:41:24,UPI Fraud,Delhi,192.168.119.185,U5868,Desktop,40157,Closed
+CC0153,2026-04-30 08:41:24,Identity Theft,Delhi,192.168.20.45,U5930,Mobile,31461,Open
+CC0154,2026-03-19 08:41:24,UPI Fraud,Delhi,192.168.84.148,U1579,Laptop,25117,Open
+CC0155,2026-03-29 08:41:24,Identity Theft,Chandigarh,192.168.42.84,U4280,Desktop,5327,Closed
+CC0156,2026-04-07 08:41:24,UPI Fraud,Chandigarh,192.168.148.244,U4017,Desktop,17401,Open
+CC0157,2026-03-23 08:41:24,Ransomware,Chandigarh,192.168.52.58,U1622,Laptop,22781,Open
+CC0158,2026-03-18 08:41:24,Ransomware,Chandigarh,192.168.200.99,U3431,Desktop,32041,Under Investigation
+CC0159,2026-04-14 08:41:24,UPI Fraud,Bangalore,192.168.211.236,U1546,Mobile,13829,Closed
+CC0160,2026-04-25 08:41:24,Identity Theft,Chandigarh,192.168.103.235,U5755,Mobile,6451,Open
+CC0161,2026-03-18 08:41:24,Phishing,Bangalore,192.168.139.81,U5375,Desktop,12645,Closed
+CC0162,2026-04-25 08:41:24,Phishing,Mumbai,192.168.99.74,U7926,Laptop,9905,Open
+CC0163,2026-04-09 08:41:24,UPI Fraud,Chandigarh,192.168.110.82,U3205,Mobile,40279,Open
+CC0164,2026-04-30 08:41:24,Phishing,Mumbai,192.168.65.190,U2537,Laptop,43849,Open
+CC0165,2026-04-01 08:41:24,Ransomware,Mumbai,192.168.133.41,U1822,Mobile,36692,Open
+CC0166,2026-04-02 08:41:24,Identity Theft,Mumbai,192.168.170.238,U7132,Mobile,4415,Under Investigation
+CC0167,2026-04-09 08:41:24,Identity Theft,Delhi,192.168.11.196,U4321,Laptop,49501,Open
+CC0168,2026-05-02 08:41:24,Ransomware,Chandigarh,192.168.252.86,U9847,Mobile,36478,Under Investigation
+CC0169,2026-03-12 08:41:24,Ransomware,Mumbai,192.168.60.220,U4150,Desktop,13506,Under Investigation
+CC0170,2026-04-24 08:41:24,Identity Theft,Delhi,192.168.165.146,U6671,Desktop,1741,Open
+CC0171,2026-03-11 08:41:24,Identity Theft,Chandigarh,192.168.172.49,U9981,Mobile,48451,Closed
+CC0172,2026-03-10 08:41:24,Phishing,Chandigarh,192.168.201.33,U2455,Laptop,25962,Under Investigation
+CC0173,2026-03-27 08:41:24,Phishing,Chandigarh,192.168.203.101,U1141,Laptop,11091,Open
+CC0174,2026-04-07 08:41:24,Phishing,Bangalore,192.168.174.251,U3103,Mobile,36015,Under Investigation
+CC0175,2026-04-28 08:41:24,Ransomware,Delhi,192.168.162.138,U1905,Desktop,20502,Closed
+CC0176,2026-04-05 08:41:24,UPI Fraud,Delhi,192.168.115.243,U5806,Laptop,21182,Open
+CC0177,2026-03-10 08:41:24,Ransomware,Bangalore,192.168.96.16,U6126,Laptop,46125,Open
+CC0178,2026-03-22 08:41:24,Phishing,Bangalore,192.168.222.15,U6368,Mobile,29313,Under Investigation
+CC0179,2026-04-30 08:41:24,Ransomware,Mumbai,192.168.109.82,U6318,Laptop,19018,Open
+CC0180,2026-04-13 08:41:24,Identity Theft,Delhi,192.168.41.141,U4668,Mobile,39032,Open
+CC0181,2026-03-11 08:41:24,UPI Fraud,Bangalore,192.168.99.33,U3840,Desktop,11301,Closed
+CC0182,2026-04-18 08:41:24,Ransomware,Delhi,192.168.150.140,U5088,Desktop,32895,Open
+CC0183,2026-03-10 08:41:24,Phishing,Chandigarh,192.168.230.246,U7068,Desktop,36026,Open
+CC0184,2026-03-10 08:41:24,UPI Fraud,Chandigarh,192.168.230.150,U5476,Laptop,38721,Closed
+CC0185,2026-03-07 08:41:24,Identity Theft,Chandigarh,192.168.165.80,U3997,Mobile,21345,Closed
+CC0186,2026-04-08 08:41:24,UPI Fraud,Bangalore,192.168.159.35,U9226,Laptop,2240,Closed
+CC0187,2026-03-19 08:41:24,UPI Fraud,Bangalore,192.168.175.196,U1201,Laptop,46401,Closed
+CC0188,2026-04-26 08:41:24,UPI Fraud,Delhi,192.168.90.168,U2892,Desktop,43591,Under Investigation
+CC0189,2026-04-17 08:41:24,Phishing,Chandigarh,192.168.13.97,U4115,Desktop,45990,Under Investigation
+CC0190,2026-03-21 08:41:24,UPI Fraud,Mumbai,192.168.42.118,U7012,Desktop,34130,Open
+CC0191,2026-03-08 08:41:24,Ransomware,Chandigarh,192.168.93.59,U9179,Laptop,10549,Under Investigation
+CC0192,2026-03-31 08:41:24,Identity Theft,Chandigarh,192.168.78.74,U2981,Desktop,30312,Under Investigation
+CC0193,2026-03-08 08:41:24,UPI Fraud,Bangalore,192.168.30.69,U6219,Laptop,33882,Closed
+CC0194,2026-03-14 08:41:24,Phishing,Chandigarh,192.168.98.208,U6984,Desktop,40170,Under Investigation
+CC0195,2026-04-05 08:41:24,Ransomware,Delhi,192.168.172.134,U6312,Laptop,24102,Closed
+CC0196,2026-03-28 08:41:24,UPI Fraud,Delhi,192.168.152.158,U4268,Laptop,22054,Closed
+CC0197,2026-04-08 08:41:24,Phishing,Chandigarh,192.168.50.133,U5020,Mobile,47535,Under Investigation
+CC0198,2026-03-26 08:41:24,Identity Theft,Chandigarh,192.168.198.9,U9915,Mobile,21485,Under Investigation
+CC0199,2026-05-03 08:41:24,Ransomware,Mumbai,192.168.192.156,U1202,Mobile,28102,Open
+CC0200,2026-05-04 08:41:24,Identity Theft,Bangalore,192.168.142.216,U6407,Mobile,35805,Open
+CC0201,2026-04-09 08:41:24,Identity Theft,Bangalore,192.168.7.139,U9136,Desktop,14671,Closed
+CC0202,2026-04-14 08:41:24,Identity Theft,Mumbai,192.168.68.253,U3742,Laptop,1880,Closed
+CC0203,2026-03-06 08:41:24,Ransomware,Mumbai,192.168.207.90,U8170,Desktop,11218,Closed
+CC0204,2026-05-05 08:41:24,UPI Fraud,Mumbai,192.168.57.183,U2728,Desktop,33825,Open
+CC0205,2026-03-18 08:41:24,Identity Theft,Mumbai,192.168.198.38,U8106,Desktop,20234,Open
+CC0206,2026-03-31 08:41:24,Ransomware,Mumbai,192.168.206.216,U4945,Laptop,44876,Closed
+CC0207,2026-03-12 08:41:24,UPI Fraud,Mumbai,192.168.113.226,U4032,Laptop,13370,Closed
+CC0208,2026-04-17 08:41:24,Phishing,Chandigarh,192.168.152.117,U1095,Laptop,38976,Open
+CC0209,2026-03-14 08:41:24,Identity Theft,Chandigarh,192.168.32.93,U9086,Laptop,7486,Open
+CC0210,2026-04-18 08:41:24,Phishing,Chandigarh,192.168.23.241,U5866,Desktop,26486,Closed
+CC0211,2026-03-18 08:41:24,Identity Theft,Chandigarh,192.168.80.169,U9651,Laptop,2631,Under Investigation
+CC0212,2026-03-14 08:41:24,UPI Fraud,Chandigarh,192.168.155.51,U6864,Desktop,2078,Open
+CC0213,2026-03-23 08:41:24,Phishing,Chandigarh,192.168.81.218,U6247,Laptop,22361,Closed
+CC0214,2026-04-08 08:41:24,UPI Fraud,Delhi,192.168.97.144,U4841,Desktop,684,Closed
+CC0215,2026-03-15 08:41:24,Identity Theft,Bangalore,192.168.233.169,U6193,Mobile,29479,Open
+CC0216,2026-04-01 08:41:24,UPI Fraud,Mumbai,192.168.38.32,U1100,Mobile,23032,Under Investigation
+CC0217,2026-04-14 08:41:24,Ransomware,Mumbai,192.168.146.137,U7650,Laptop,31478,Open
+CC0218,2026-05-03 08:41:24,Ransomware,Chandigarh,192.168.45.108,U7546,Desktop,31320,Closed
+CC0219,2026-04-14 08:41:24,Phishing,Chandigarh,192.168.191.219,U7904,Desktop,3832,Open
+CC0220,2026-04-28 08:41:24,UPI Fraud,Mumbai,192.168.2.184,U5902,Desktop,24495,Under Investigation
+CC0221,2026-04-06 08:41:24,UPI Fraud,Chandigarh,192.168.91.136,U9807,Desktop,2120,Under Investigation
+CC0222,2026-04-09 08:41:24,Phishing,Delhi,192.168.251.102,U8314,Desktop,10605,Closed
+CC0223,2026-04-08 08:41:24,Phishing,Bangalore,192.168.163.242,U4713,Desktop,22084,Under Investigation
+CC0224,2026-04-15 08:41:24,Phishing,Delhi,192.168.92.54,U1783,Mobile,26336,Closed
+CC0225,2026-03-24 08:41:24,UPI Fraud,Bangalore,192.168.189.45,U5633,Desktop,36116,Closed
+CC0226,2026-04-17 08:41:24,Phishing,Chandigarh,192.168.151.125,U1041,Laptop,18623,Under Investigation
+CC0227,2026-03-25 08:41:24,UPI Fraud,Chandigarh,192.168.252.83,U6077,Laptop,26991,Closed
+CC0228,2026-03-28 08:41:24,UPI Fraud,Bangalore,192.168.137.169,U5911,Laptop,2288,Open
+CC0229,2026-03-24 08:41:24,UPI Fraud,Bangalore,192.168.247.142,U1468,Laptop,10851,Open
+CC0230,2026-03-09 08:41:24,Phishing,Chandigarh,192.168.153.139,U8919,Mobile,1008,Open
+CC0231,2026-04-07 08:41:24,UPI Fraud,Bangalore,192.168.40.132,U9088,Mobile,19344,Closed
+CC0232,2026-04-11 08:41:24,Phishing,Mumbai,192.168.130.98,U1901,Laptop,48336,Under Investigation
+CC0233,2026-04-17 08:41:24,Phishing,Bangalore,192.168.182.221,U4379,Mobile,8193,Open
+CC0234,2026-04-25 08:41:24,UPI Fraud,Mumbai,192.168.144.111,U7388,Mobile,32676,Closed
+CC0235,2026-03-25 08:41:24,Ransomware,Mumbai,192.168.220.32,U4444,Mobile,20647,Closed
+CC0236,2026-03-19 08:41:24,UPI Fraud,Bangalore,192.168.54.130,U8732,Mobile,16955,Open
+CC0237,2026-05-02 08:41:24,Ransomware,Delhi,192.168.236.122,U8086,Desktop,14442,Under Investigation
+CC0238,2026-04-15 08:41:24,Identity Theft,Mumbai,192.168.160.40,U6688,Mobile,32009,Under Investigation
+CC0239,2026-04-09 08:41:24,Ransomware,Delhi,192.168.142.148,U2291,Mobile,14212,Under Investigation
+CC0240,2026-04-15 08:41:24,Phishing,Chandigarh,192.168.19.27,U5136,Desktop,28809,Under Investigation
+CC0241,2026-04-14 08:41:24,Ransomware,Bangalore,192.168.142.251,U6754,Laptop,26901,Closed
+CC0242,2026-03-29 08:41:24,Ransomware,Mumbai,192.168.109.175,U8171,Laptop,3793,Closed
+CC0243,2026-04-08 08:41:24,Ransomware,Bangalore,192.168.128.203,U2535,Laptop,6820,Under Investigation
+CC0244,2026-03-07 08:41:24,Identity Theft,Bangalore,192.168.177.19,U4383,Desktop,12646,Closed
+CC0245,2026-03-12 08:41:24,Ransomware,Chandigarh,192.168.71.47,U2875,Laptop,40761,Open
+CC0246,2026-03-09 08:41:24,Phishing,Delhi,192.168.116.167,U3884,Desktop,27831,Closed
+CC0247,2026-04-02 08:41:24,Phishing,Bangalore,192.168.14.126,U1667,Desktop,35773,Open
+CC0248,2026-04-22 08:41:24,Phishing,Bangalore,192.168.212.12,U9299,Desktop,14369,Closed
+CC0249,2026-04-15 08:41:24,Phishing,Mumbai,192.168.189.106,U9689,Desktop,1826,Closed
+CC0250,2026-04-10 08:41:24,Phishing,Delhi,192.168.11.133,U6639,Desktop,34578,Closed
+CC0251,2026-03-12 08:41:24,Ransomware,Bangalore,192.168.164.179,U6794,Desktop,34563,Under Investigation
+CC0252,2026-05-04 08:41:24,Phishing,Delhi,192.168.177.90,U4058,Desktop,26343,Under Investigation
+CC0253,2026-04-28 08:41:24,Ransomware,Delhi,192.168.204.177,U2794,Mobile,32710,Closed
+CC0254,2026-03-07 08:41:24,Ransomware,Delhi,192.168.116.46,U2498,Mobile,4908,Open
+CC0255,2026-03-29 08:41:24,Phishing,Mumbai,192.168.8.152,U7192,Mobile,16597,Open
+CC0256,2026-03-15 08:41:24,Ransomware,Delhi,192.168.5.150,U5470,Laptop,35104,Open
+CC0257,2026-05-04 08:41:24,Phishing,Bangalore,192.168.247.67,U2837,Desktop,40249,Closed
+CC0258,2026-04-22 08:41:24,Identity Theft,Bangalore,192.168.117.170,U1198,Desktop,38261,Open
+CC0259,2026-03-31 08:41:24,Ransomware,Chandigarh,192.168.108.82,U7006,Desktop,304,Closed
+CC0260,2026-05-02 08:41:24,Ransomware,Mumbai,192.168.182.132,U1634,Laptop,42256,Under Investigation
+CC0261,2026-04-23 08:41:24,Identity Theft,Bangalore,192.168.105.225,U3963,Laptop,39562,Under Investigation
+CC0262,2026-05-03 08:41:24,Ransomware,Chandigarh,192.168.222.108,U1144,Mobile,3000,Closed
+CC0263,2026-04-22 08:41:24,Ransomware,Chandigarh,192.168.111.29,U7347,Mobile,6107,Under Investigation
+CC0264,2026-03-19 08:41:24,Phishing,Mumbai,192.168.201.160,U4593,Mobile,22976,Closed
+CC0265,2026-04-14 08:41:24,UPI Fraud,Bangalore,192.168.103.160,U5722,Mobile,22070,Open
+CC0266,2026-05-03 08:41:24,UPI Fraud,Mumbai,192.168.238.119,U8092,Mobile,1749,Closed
+CC0267,2026-04-11 08:41:24,Phishing,Delhi,192.168.224.87,U1704,Laptop,16320,Closed
+CC0268,2026-04-24 08:41:24,UPI Fraud,Delhi,192.168.50.92,U9063,Laptop,28425,Under Investigation
+CC0269,2026-03-24 08:41:24,Phishing,Mumbai,192.168.169.135,U7093,Desktop,37846,Under Investigation
+CC0270,2026-03-07 08:41:24,Ransomware,Delhi,192.168.160.6,U2743,Desktop,5022,Open
+CC0271,2026-03-17 08:41:24,Ransomware,Mumbai,192.168.10.215,U6632,Laptop,46297,Under Investigation
+CC0272,2026-03-24 08:41:24,UPI Fraud,Delhi,192.168.239.232,U9256,Laptop,42341,Closed
+CC0273,2026-03-08 08:41:24,Ransomware,Delhi,192.168.63.203,U9072,Mobile,32898,Open
+CC0274,2026-03-26 08:41:24,Ransomware,Delhi,192.168.96.91,U2790,Mobile,38202,Closed
+CC0275,2026-03-09 08:41:24,Identity Theft,Mumbai,192.168.101.150,U2636,Desktop,24994,Open
+CC0276,2026-03-08 08:41:24,Identity Theft,Bangalore,192.168.18.201,U2709,Mobile,18751,Closed
+CC0277,2026-04-11 08:41:24,Identity Theft,Delhi,192.168.48.26,U3491,Desktop,34142,Closed
+CC0278,2026-03-14 08:41:24,UPI Fraud,Chandigarh,192.168.216.132,U3369,Laptop,16906,Under Investigation
+CC0279,2026-03-18 08:41:24,Phishing,Bangalore,192.168.189.232,U9070,Laptop,15515,Under Investigation
+CC0280,2026-04-09 08:41:24,Identity Theft,Delhi,192.168.210.4,U1504,Mobile,10034,Closed
+CC0281,2026-03-11 08:41:24,Phishing,Delhi,192.168.87.69,U2027,Laptop,16389,Under Investigation
+CC0282,2026-04-17 08:41:24,Ransomware,Delhi,192.168.193.202,U5786,Mobile,11923,Open
+CC0283,2026-03-18 08:41:24,Ransomware,Delhi,192.168.80.177,U3413,Desktop,16446,Under Investigation
+CC0284,2026-04-15 08:41:24,Identity Theft,Bangalore,192.168.205.189,U6957,Laptop,8630,Closed
+CC0285,2026-04-10 08:41:24,Identity Theft,Mumbai,192.168.184.207,U4363,Mobile,28159,Closed
+CC0286,2026-04-05 08:41:24,Phishing,Delhi,192.168.251.9,U8452,Desktop,18725,Open
+CC0287,2026-04-12 08:41:24,Phishing,Bangalore,192.168.155.162,U8378,Desktop,29857,Under Investigation
+CC0288,2026-04-19 08:41:24,Ransomware,Mumbai,192.168.39.160,U9761,Desktop,16103,Under Investigation
+CC0289,2026-04-11 08:41:24,Phishing,Delhi,192.168.31.61,U5291,Desktop,16690,Closed
+CC0290,2026-03-14 08:41:24,UPI Fraud,Chandigarh,192.168.227.242,U9556,Laptop,30506,Closed
+CC0291,2026-03-06 08:41:24,Ransomware,Delhi,192.168.79.34,U9773,Laptop,10454,Closed
+CC0292,2026-04-09 08:41:24,UPI Fraud,Mumbai,192.168.214.30,U5685,Mobile,3480,Open
+CC0293,2026-04-25 08:41:24,UPI Fraud,Chandigarh,192.168.49.188,U3298,Laptop,10084,Under Investigation
+CC0294,2026-04-17 08:41:24,Ransomware,Delhi,192.168.48.225,U6196,Laptop,2738,Open
+CC0295,2026-03-17 08:41:24,UPI Fraud,Mumbai,192.168.42.86,U8609,Mobile,33808,Open
+CC0296,2026-04-12 08:41:24,Phishing,Chandigarh,192.168.121.202,U4024,Desktop,26851,Open
+CC0297,2026-03-16 08:41:24,Identity Theft,Delhi,192.168.36.20,U9590,Laptop,39230,Open
+CC0298,2026-04-29 08:41:24,UPI Fraud,Bangalore,192.168.46.173,U4191,Laptop,32546,Closed
+CC0299,2026-05-02 08:41:24,Identity Theft,Delhi,192.168.162.184,U9044,Laptop,23336,Open
+CC0300,2026-03-11 08:41:24,UPI Fraud,Bangalore,192.168.18.235,U6818,Mobile,7356,Closed
+CC0301,2026-04-08 08:41:24,Identity Theft,Bangalore,192.168.36.104,U7267,Laptop,38686,Closed
+CC0302,2026-04-10 08:41:24,Phishing,Mumbai,192.168.210.72,U9541,Desktop,15206,Open
+CC0303,2026-04-28 08:41:24,UPI Fraud,Chandigarh,192.168.207.238,U1097,Laptop,15770,Closed
+CC0304,2026-04-02 08:41:24,Identity Theft,Delhi,192.168.166.94,U1117,Desktop,40651,Under Investigation
+CC0305,2026-04-30 08:41:24,Identity Theft,Chandigarh,192.168.181.24,U8192,Mobile,43014,Closed
+CC0306,2026-04-15 08:41:24,Phishing,Chandigarh,192.168.122.149,U3205,Mobile,36955,Open
+CC0307,2026-03-25 08:41:24,Ransomware,Mumbai,192.168.87.138,U8596,Mobile,5484,Under Investigation
+CC0308,2026-03-27 08:41:24,Ransomware,Bangalore,192.168.2.20,U2859,Laptop,15339,Closed
+CC0309,2026-03-31 08:41:24,UPI Fraud,Chandigarh,192.168.206.70,U1573,Mobile,20307,Under Investigation
+CC0310,2026-04-29 08:41:24,Identity Theft,Delhi,192.168.5.80,U1968,Laptop,24237,Open
+CC0311,2026-03-20 08:41:24,Ransomware,Chandigarh,192.168.80.129,U3937,Laptop,35020,Open
+CC0312,2026-04-13 08:41:24,Phishing,Mumbai,192.168.72.240,U1214,Laptop,36994,Open
+CC0313,2026-04-26 08:41:24,Ransomware,Delhi,192.168.216.55,U8715,Laptop,41552,Closed
+CC0314,2026-03-28 08:41:24,Ransomware,Chandigarh,192.168.237.101,U6550,Mobile,20487,Closed
+CC0315,2026-04-01 08:41:24,UPI Fraud,Delhi,192.168.21.69,U7911,Desktop,11220,Closed
+CC0316,2026-03-31 08:41:24,Ransomware,Chandigarh,192.168.255.27,U4976,Laptop,12186,Closed
+CC0317,2026-04-07 08:41:24,Identity Theft,Mumbai,192.168.196.97,U3424,Desktop,47946,Open
+CC0318,2026-04-10 08:41:24,Identity Theft,Chandigarh,192.168.18.111,U4201,Mobile,16343,Open
+CC0319,2026-04-22 08:41:24,UPI Fraud,Delhi,192.168.62.198,U9061,Desktop,7599,Closed
+CC0320,2026-04-07 08:41:24,Phishing,Bangalore,192.168.240.6,U7206,Desktop,43558,Closed
+CC0321,2026-03-28 08:41:24,UPI Fraud,Bangalore,192.168.164.123,U1190,Desktop,33330,Under Investigation
+CC0322,2026-05-02 08:41:24,Identity Theft,Mumbai,192.168.101.120,U9484,Mobile,34714,Open
+CC0323,2026-03-27 08:41:24,Identity Theft,Delhi,192.168.42.98,U1464,Mobile,33744,Open
+CC0324,2026-04-30 08:41:24,UPI Fraud,Mumbai,192.168.40.213,U9186,Desktop,49833,Open
+CC0325,2026-03-10 08:41:24,Identity Theft,Mumbai,192.168.94.178,U1785,Laptop,25015,Open
+CC0326,2026-03-24 08:41:24,Ransomware,Chandigarh,192.168.132.16,U6118,Mobile,27437,Open
+CC0327,2026-03-30 08:41:24,Ransomware,Delhi,192.168.110.32,U1523,Laptop,44642,Open
+CC0328,2026-04-09 08:41:24,Phishing,Chandigarh,192.168.188.23,U8334,Desktop,2080,Under Investigation
+CC0329,2026-04-17 08:41:24,UPI Fraud,Bangalore,192.168.5.38,U5468,Mobile,30706,Under Investigation
+CC0330,2026-04-01 08:41:24,UPI Fraud,Chandigarh,192.168.167.18,U1154,Laptop,21644,Under Investigation
+CC0331,2026-04-27 08:41:24,UPI Fraud,Bangalore,192.168.102.206,U8730,Desktop,40976,Open
+CC0332,2026-03-06 08:41:24,Ransomware,Mumbai,192.168.141.180,U5547,Mobile,13051,Open
+CC0333,2026-04-20 08:41:24,Phishing,Delhi,192.168.24.104,U8766,Desktop,16771,Open
+CC0334,2026-04-16 08:41:24,Identity Theft,Delhi,192.168.20.147,U3471,Mobile,38662,Under Investigation
+CC0335,2026-03-25 08:41:24,Identity Theft,Chandigarh,192.168.208.250,U6367,Mobile,21788,Closed
+CC0336,2026-04-04 08:41:24,UPI Fraud,Mumbai,192.168.58.186,U2371,Mobile,43605,Open
+CC0337,2026-03-07 08:41:24,Identity Theft,Mumbai,192.168.162.143,U3591,Mobile,28921,Open
+CC0338,2026-03-25 08:41:24,Phishing,Delhi,192.168.134.39,U9264,Laptop,19406,Closed
+CC0339,2026-04-23 08:41:24,UPI Fraud,Chandigarh,192.168.123.95,U2529,Mobile,1778,Closed
+CC0340,2026-04-13 08:41:24,Ransomware,Mumbai,192.168.238.14,U1333,Mobile,8228,Under Investigation
+CC0341,2026-04-15 08:41:24,Identity Theft,Delhi,192.168.6.51,U4065,Desktop,43384,Open
+CC0342,2026-04-30 08:41:24,Identity Theft,Chandigarh,192.168.76.169,U8242,Mobile,48566,Closed
+CC0343,2026-04-25 08:41:24,Ransomware,Chandigarh,192.168.240.101,U1625,Desktop,21579,Open
+CC0344,2026-04-17 08:41:24,Identity Theft,Mumbai,192.168.197.22,U5172,Mobile,18226,Open
+CC0345,2026-04-04 08:41:24,Identity Theft,Delhi,192.168.21.68,U8947,Laptop,27797,Closed
+CC0346,2026-03-11 08:41:24,Phishing,Mumbai,192.168.187.151,U8129,Mobile,32212,Closed
+CC0347,2026-05-05 08:41:24,UPI Fraud,Delhi,192.168.24.192,U2710,Mobile,17874,Under Investigation
+CC0348,2026-03-27 08:41:24,Identity Theft,Mumbai,192.168.5.101,U6382,Laptop,1094,Under Investigation
+CC0349,2026-05-02 08:41:24,Phishing,Chandigarh,192.168.36.138,U2193,Laptop,11224,Closed
+CC0350,2026-04-26 08:41:24,Ransomware,Chandigarh,192.168.156.4,U8179,Desktop,41755,Closed
+CC0351,2026-04-28 08:41:24,Phishing,Bangalore,192.168.10.199,U1992,Laptop,26431,Closed
+CC0352,2026-04-25 08:41:24,UPI Fraud,Mumbai,192.168.14.187,U5649,Desktop,24847,Closed
+CC0353,2026-05-02 08:41:24,Ransomware,Bangalore,192.168.241.46,U3809,Desktop,37118,Open
+CC0354,2026-05-05 08:41:24,Phishing,Bangalore,192.168.252.159,U8110,Mobile,24221,Closed
+CC0355,2026-05-04 08:41:24,Identity Theft,Bangalore,192.168.34.14,U8519,Laptop,37769,Open
+CC0356,2026-04-10 08:41:24,UPI Fraud,Chandigarh,192.168.210.65,U2985,Mobile,43690,Closed
+CC0357,2026-04-04 08:41:24,Ransomware,Mumbai,192.168.143.117,U5016,Laptop,19424,Under Investigation
+CC0358,2026-03-18 08:41:24,Ransomware,Delhi,192.168.104.228,U9976,Laptop,12888,Open
+CC0359,2026-04-25 08:41:24,Ransomware,Chandigarh,192.168.119.245,U5720,Mobile,25603,Under Investigation
+CC0360,2026-03-14 08:41:24,Ransomware,Mumbai,192.168.25.3,U1003,Desktop,37889,Under Investigation
+CC0361,2026-04-02 08:41:24,Phishing,Mumbai,192.168.185.199,U5038,Desktop,18988,Open
+CC0362,2026-04-05 08:41:24,Identity Theft,Delhi,192.168.43.101,U5892,Laptop,46940,Open
+CC0363,2026-03-26 08:41:24,Ransomware,Chandigarh,192.168.47.240,U1067,Desktop,25293,Under Investigation
+CC0364,2026-04-22 08:41:24,Identity Theft,Delhi,192.168.148.20,U4523,Mobile,14461,Open
+CC0365,2026-03-25 08:41:24,Phishing,Delhi,192.168.58.204,U1807,Laptop,42630,Under Investigation
+CC0366,2026-03-09 08:41:24,Ransomware,Delhi,192.168.48.230,U8273,Mobile,23277,Closed
+CC0367,2026-04-25 08:41:24,Ransomware,Mumbai,192.168.12.82,U4914,Laptop,34726,Closed
+CC0368,2026-03-08 08:41:24,Ransomware,Mumbai,192.168.168.195,U7897,Desktop,46023,Under Investigation
+CC0369,2026-03-12 08:41:24,UPI Fraud,Delhi,192.168.26.28,U5725,Mobile,48008,Closed
+CC0370,2026-03-17 08:41:24,Phishing,Mumbai,192.168.104.76,U5952,Laptop,14126,Under Investigation
+CC0371,2026-03-13 08:41:24,Ransomware,Delhi,192.168.211.51,U3622,Desktop,2013,Closed
+CC0372,2026-04-22 08:41:24,Phishing,Delhi,192.168.250.203,U8918,Desktop,9696,Open
+CC0373,2026-04-11 08:41:24,Identity Theft,Delhi,192.168.14.227,U9073,Laptop,17071,Under Investigation
+CC0374,2026-04-21 08:41:24,Identity Theft,Mumbai,192.168.233.169,U7394,Mobile,29691,Open
+CC0375,2026-03-17 08:41:24,UPI Fraud,Mumbai,192.168.47.240,U6293,Desktop,9290,Closed
+CC0376,2026-04-15 08:41:24,Identity Theft,Chandigarh,192.168.245.216,U4076,Mobile,39734,Under Investigation
+CC0377,2026-03-26 08:41:24,Identity Theft,Mumbai,192.168.189.92,U2137,Desktop,15327,Closed
+CC0378,2026-03-14 08:41:24,Phishing,Mumbai,192.168.65.90,U4687,Mobile,34752,Closed
+CC0379,2026-04-20 08:41:24,Identity Theft,Delhi,192.168.254.203,U8279,Desktop,24630,Closed
+CC0380,2026-03-24 08:41:24,Identity Theft,Bangalore,192.168.135.62,U5688,Laptop,44464,Open
+CC0381,2026-05-01 08:41:24,Identity Theft,Mumbai,192.168.162.228,U1510,Desktop,13282,Under Investigation
+CC0382,2026-03-12 08:41:24,Identity Theft,Mumbai,192.168.51.206,U7455,Laptop,6064,Under Investigation
+CC0383,2026-03-06 08:41:24,UPI Fraud,Chandigarh,192.168.176.25,U2202,Laptop,12503,Closed
+CC0384,2026-04-06 08:41:24,Phishing,Mumbai,192.168.94.158,U1272,Mobile,22979,Open
+CC0385,2026-04-23 08:41:24,Phishing,Mumbai,192.168.25.230,U5698,Laptop,2086,Open
+CC0386,2026-03-17 08:41:24,Phishing,Chandigarh,192.168.143.107,U5786,Mobile,20482,Closed
+CC0387,2026-04-21 08:41:24,Identity Theft,Delhi,192.168.204.33,U5960,Mobile,22905,Open
+CC0388,2026-03-19 08:41:24,Phishing,Delhi,192.168.228.3,U4997,Mobile,29093,Closed
+CC0389,2026-03-13 08:41:24,UPI Fraud,Mumbai,192.168.72.192,U5886,Desktop,7875,Closed
+CC0390,2026-04-30 08:41:24,UPI Fraud,Delhi,192.168.115.130,U2288,Laptop,43952,Open
+CC0391,2026-04-20 08:41:24,UPI Fraud,Delhi,192.168.140.83,U7527,Desktop,39666,Closed
+CC0392,2026-03-15 08:41:24,Ransomware,Bangalore,192.168.151.173,U2050,Mobile,17096,Closed
+CC0393,2026-04-11 08:41:24,Phishing,Bangalore,192.168.52.88,U7130,Laptop,46273,Closed
+CC0394,2026-05-04 08:41:24,UPI Fraud,Mumbai,192.168.160.224,U7498,Laptop,23343,Closed
+CC0395,2026-03-12 08:41:24,UPI Fraud,Delhi,192.168.102.171,U7679,Desktop,1784,Under Investigation
+CC0396,2026-05-05 08:41:24,Identity Theft,Bangalore,192.168.248.65,U1720,Laptop,43990,Open
+CC0397,2026-05-02 08:41:24,UPI Fraud,Delhi,192.168.26.175,U2890,Desktop,21993,Under Investigation
+CC0398,2026-03-28 08:41:24,UPI Fraud,Delhi,192.168.228.56,U9295,Laptop,8162,Under Investigation
+CC0399,2026-04-18 08:41:24,Phishing,Bangalore,192.168.62.245,U2153,Laptop,27929,Closed
+CC0400,2026-04-01 08:41:24,UPI Fraud,Bangalore,192.168.100.118,U2521,Desktop,7931,Open
+CC0401,2026-04-12 08:41:24,Ransomware,Mumbai,192.168.252.87,U2465,Desktop,10521,Under Investigation
+CC0402,2026-03-12 08:41:24,Phishing,Bangalore,192.168.114.94,U9192,Desktop,27436,Open
+CC0403,2026-03-08 08:41:24,Identity Theft,Chandigarh,192.168.101.33,U2107,Laptop,6981,Open
+CC0404,2026-03-27 08:41:24,Ransomware,Chandigarh,192.168.196.223,U7123,Mobile,20990,Closed
+CC0405,2026-04-25 08:41:24,Ransomware,Delhi,192.168.221.46,U8205,Desktop,28761,Under Investigation
+CC0406,2026-04-28 08:41:24,Identity Theft,Delhi,192.168.3.120,U4492,Desktop,30806,Closed
+CC0407,2026-03-29 08:41:24,Phishing,Bangalore,192.168.107.188,U4157,Laptop,47307,Under Investigation
+CC0408,2026-03-30 08:41:24,Identity Theft,Chandigarh,192.168.32.55,U1039,Laptop,45075,Under Investigation
+CC0409,2026-04-21 08:41:24,Phishing,Delhi,192.168.238.154,U4789,Laptop,23732,Closed
+CC0410,2026-03-25 08:41:24,Phishing,Delhi,192.168.29.163,U7925,Laptop,21818,Open
+CC0411,2026-04-30 08:41:24,Ransomware,Mumbai,192.168.224.40,U1355,Laptop,36245,Under Investigation
+CC0412,2026-04-16 08:41:24,UPI Fraud,Chandigarh,192.168.141.80,U9965,Laptop,27922,Under Investigation
+CC0413,2026-04-15 08:41:24,Phishing,Bangalore,192.168.94.22,U6960,Laptop,38772,Open
+CC0414,2026-03-25 08:41:24,UPI Fraud,Chandigarh,192.168.40.156,U7780,Mobile,27532,Under Investigation
+CC0415,2026-03-25 08:41:24,Phishing,Delhi,192.168.112.239,U9347,Mobile,42019,Closed
+CC0416,2026-04-27 08:41:24,UPI Fraud,Delhi,192.168.5.127,U3178,Desktop,11866,Open
+CC0417,2026-03-10 08:41:24,Ransomware,Delhi,192.168.79.147,U1978,Desktop,41878,Closed
+CC0418,2026-03-24 08:41:24,Identity Theft,Bangalore,192.168.171.230,U2825,Desktop,45802,Closed
+CC0419,2026-04-02 08:41:24,Identity Theft,Delhi,192.168.77.79,U3507,Laptop,43455,Closed
+CC0420,2026-03-20 08:41:24,Ransomware,Delhi,192.168.222.210,U7459,Laptop,43422,Open
+CC0421,2026-03-27 08:41:24,Phishing,Bangalore,192.168.95.21,U3403,Laptop,29239,Open
+CC0422,2026-04-13 08:41:24,Phishing,Mumbai,192.168.212.191,U4304,Mobile,6235,Closed
+CC0423,2026-05-04 08:41:24,Phishing,Chandigarh,192.168.54.182,U2610,Mobile,18662,Under Investigation
+CC0424,2026-04-26 08:41:24,Ransomware,Mumbai,192.168.117.30,U3161,Desktop,19592,Open
+CC0425,2026-05-02 08:41:24,Identity Theft,Mumbai,192.168.96.239,U3127,Desktop,20238,Closed
+CC0426,2026-03-21 08:41:24,UPI Fraud,Chandigarh,192.168.171.206,U8097,Desktop,26128,Under Investigation
+CC0427,2026-03-17 08:41:24,Identity Theft,Chandigarh,192.168.160.246,U7428,Desktop,34618,Closed
+CC0428,2026-03-28 08:41:24,Ransomware,Delhi,192.168.18.68,U4861,Laptop,15655,Open
+CC0429,2026-03-24 08:41:24,Identity Theft,Bangalore,192.168.159.222,U9761,Desktop,29599,Under Investigation
+CC0430,2026-04-03 08:41:24,Phishing,Chandigarh,192.168.159.142,U8428,Desktop,32857,Open
+CC0431,2026-04-09 08:41:24,Phishing,Delhi,192.168.19.135,U6208,Desktop,18972,Open
+CC0432,2026-03-23 08:41:24,Identity Theft,Bangalore,192.168.202.72,U8224,Mobile,27413,Closed
+CC0433,2026-03-12 08:41:24,UPI Fraud,Mumbai,192.168.164.132,U8036,Desktop,30964,Under Investigation
+CC0434,2026-03-24 08:41:24,Phishing,Delhi,192.168.36.181,U6146,Laptop,43751,Closed
+CC0435,2026-03-23 08:41:24,Phishing,Mumbai,192.168.151.92,U8159,Mobile,36895,Under Investigation
+CC0436,2026-03-25 08:41:24,Phishing,Chandigarh,192.168.191.46,U8398,Desktop,17269,Under Investigation
+CC0437,2026-03-06 08:41:24,UPI Fraud,Chandigarh,192.168.8.85,U9246,Mobile,48525,Closed
+CC0438,2026-03-20 08:41:24,Ransomware,Chandigarh,192.168.70.211,U9602,Laptop,13107,Open
+CC0439,2026-03-23 08:41:24,UPI Fraud,Mumbai,192.168.166.15,U7652,Laptop,31835,Under Investigation
+CC0440,2026-04-24 08:41:24,Identity Theft,Chandigarh,192.168.33.25,U9963,Desktop,15845,Closed
+CC0441,2026-03-11 08:41:24,UPI Fraud,Mumbai,192.168.202.26,U1730,Mobile,28231,Closed
+CC0442,2026-04-09 08:41:24,UPI Fraud,Mumbai,192.168.11.118,U7884,Desktop,21979,Under Investigation
+CC0443,2026-03-20 08:41:24,UPI Fraud,Mumbai,192.168.26.40,U7648,Mobile,30065,Open
+CC0444,2026-04-07 08:41:24,Phishing,Mumbai,192.168.57.19,U9580,Mobile,24673,Open
+CC0445,2026-04-18 08:41:24,Identity Theft,Bangalore,192.168.216.90,U6966,Laptop,32585,Under Investigation
+CC0446,2026-03-12 08:41:24,Ransomware,Delhi,192.168.62.189,U5849,Laptop,49533,Open
+CC0447,2026-03-10 08:41:24,Ransomware,Delhi,192.168.77.161,U8031,Laptop,13747,Open
+CC0448,2026-03-28 08:41:24,Ransomware,Delhi,192.168.161.227,U5677,Desktop,35518,Open
+CC0449,2026-04-16 08:41:24,Ransomware,Chandigarh,192.168.62.161,U3325,Mobile,42338,Closed
+CC0450,2026-04-21 08:41:24,Phishing,Bangalore,192.168.97.79,U6809,Desktop,37596,Closed
+CC0451,2026-04-07 08:41:24,Identity Theft,Mumbai,192.168.11.49,U2886,Mobile,1706,Under Investigation
+CC0452,2026-03-23 08:41:24,Ransomware,Mumbai,192.168.226.190,U4030,Laptop,43492,Closed
+CC0453,2026-03-24 08:41:24,Ransomware,Delhi,192.168.142.157,U7167,Mobile,30384,Under Investigation
+CC0454,2026-04-30 08:41:24,Phishing,Bangalore,192.168.13.182,U3077,Laptop,20115,Under Investigation
+CC0455,2026-04-08 08:41:24,Identity Theft,Mumbai,192.168.182.227,U5327,Mobile,39562,Open
+CC0456,2026-05-04 08:41:24,Identity Theft,Bangalore,192.168.9.72,U6203,Mobile,13987,Open
+CC0457,2026-03-25 08:41:24,Identity Theft,Chandigarh,192.168.68.40,U5258,Laptop,18206,Closed
+CC0458,2026-04-09 08:41:24,Ransomware,Bangalore,192.168.180.215,U3485,Mobile,31189,Open
+CC0459,2026-03-13 08:41:24,UPI Fraud,Bangalore,192.168.225.57,U9094,Laptop,35612,Under Investigation
+CC0460,2026-04-22 08:41:24,Phishing,Bangalore,192.168.230.154,U2938,Mobile,40349,Under Investigation
+CC0461,2026-03-17 08:41:24,Identity Theft,Bangalore,192.168.108.12,U8413,Laptop,39131,Open
+CC0462,2026-04-23 08:41:24,UPI Fraud,Bangalore,192.168.158.9,U7785,Mobile,28120,Open
+CC0463,2026-03-08 08:41:24,Phishing,Delhi,192.168.137.3,U1244,Desktop,45102,Under Investigation
+CC0464,2026-05-01 08:41:24,Phishing,Delhi,192.168.190.187,U9636,Desktop,31489,Open
+CC0465,2026-04-14 08:41:24,Identity Theft,Chandigarh,192.168.18.151,U5006,Mobile,11271,Closed
+CC0466,2026-03-07 08:41:24,Identity Theft,Mumbai,192.168.209.161,U9061,Desktop,5035,Open
+CC0467,2026-04-26 08:41:24,Identity Theft,Mumbai,192.168.166.77,U5271,Laptop,7792,Closed
+CC0468,2026-03-25 08:41:24,Ransomware,Chandigarh,192.168.83.145,U7542,Laptop,2113,Under Investigation
+CC0469,2026-03-29 08:41:24,UPI Fraud,Bangalore,192.168.117.182,U1219,Mobile,47840,Open
+CC0470,2026-04-16 08:41:24,Ransomware,Delhi,192.168.215.17,U7934,Mobile,35042,Under Investigation
+CC0471,2026-04-24 08:41:24,Ransomware,Delhi,192.168.62.208,U1655,Laptop,1146,Open
+CC0472,2026-04-07 08:41:24,Identity Theft,Chandigarh,192.168.237.122,U6672,Mobile,15134,Under Investigation
+CC0473,2026-04-28 08:41:24,UPI Fraud,Bangalore,192.168.241.96,U2018,Laptop,49425,Open
+CC0474,2026-03-24 08:41:24,UPI Fraud,Delhi,192.168.190.204,U9007,Laptop,9744,Open
+CC0475,2026-04-28 08:41:24,Ransomware,Mumbai,192.168.129.43,U6771,Laptop,24796,Closed
+CC0476,2026-04-03 08:41:24,Ransomware,Bangalore,192.168.63.241,U8610,Desktop,14665,Under Investigation
+CC0477,2026-03-27 08:41:24,UPI Fraud,Mumbai,192.168.240.117,U6176,Desktop,11340,Under Investigation
+CC0478,2026-03-18 08:41:24,Ransomware,Chandigarh,192.168.31.123,U1040,Laptop,2749,Open
+CC0479,2026-03-28 08:41:24,Identity Theft,Delhi,192.168.185.183,U6783,Mobile,11981,Open
+CC0480,2026-03-25 08:41:24,Ransomware,Mumbai,192.168.121.87,U8026,Laptop,24704,Open
+CC0481,2026-04-02 08:41:24,UPI Fraud,Bangalore,192.168.105.4,U8855,Mobile,26287,Closed
+CC0482,2026-04-18 08:41:24,Ransomware,Mumbai,192.168.67.158,U8549,Laptop,43393,Closed
+CC0483,2026-03-23 08:41:24,Phishing,Delhi,192.168.97.61,U1981,Laptop,23570,Closed
+CC0484,2026-03-20 08:41:24,UPI Fraud,Mumbai,192.168.221.117,U2191,Mobile,14051,Open
+CC0485,2026-05-05 08:41:24,Phishing,Chandigarh,192.168.145.74,U3219,Desktop,30573,Under Investigation
+CC0486,2026-04-26 08:41:24,Identity Theft,Chandigarh,192.168.158.216,U9829,Mobile,4341,Closed
+CC0487,2026-04-22 08:41:24,Identity Theft,Chandigarh,192.168.70.5,U4336,Laptop,19669,Closed
+CC0488,2026-04-07 08:41:24,UPI Fraud,Chandigarh,192.168.142.64,U5141,Mobile,32577,Closed
+CC0489,2026-03-29 08:41:24,Identity Theft,Chandigarh,192.168.24.164,U7412,Laptop,46245,Under Investigation
+CC0490,2026-03-09 08:41:24,Identity Theft,Mumbai,192.168.164.91,U7066,Laptop,31937,Under Investigation
+CC0491,2026-03-24 08:41:24,UPI Fraud,Bangalore,192.168.217.109,U2587,Desktop,9025,Under Investigation
+CC0492,2026-05-02 08:41:24,UPI Fraud,Mumbai,192.168.141.135,U2371,Desktop,31412,Open
+CC0493,2026-04-20 08:41:24,Ransomware,Bangalore,192.168.195.241,U2517,Laptop,31802,Open
+CC0494,2026-03-19 08:41:24,Phishing,Delhi,192.168.239.119,U9065,Laptop,39385,Closed
+CC0495,2026-03-25 08:41:24,Ransomware,Chandigarh,192.168.74.61,U6279,Mobile,2758,Open
+CC0496,2026-04-24 08:41:24,UPI Fraud,Chandigarh,192.168.179.60,U4085,Desktop,13289,Under Investigation
+CC0497,2026-04-03 08:41:24,Identity Theft,Bangalore,192.168.143.66,U1502,Desktop,25693,Open
+CC0498,2026-03-30 08:41:24,UPI Fraud,Mumbai,192.168.150.187,U9441,Desktop,3859,Under Investigation
+CC0499,2026-03-18 08:41:24,UPI Fraud,Chandigarh,192.168.218.75,U5071,Desktop,17493,Under Investigation
+CC0500,2026-04-24 08:41:24,Ransomware,Delhi,192.168.98.121,U7152,Laptop,5858,Open
