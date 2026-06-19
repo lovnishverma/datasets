@@ -1,9 +1,9 @@
 Name,Age,Gender,Score
-Alice,25,F,85
-Eve,45,F,92
-Eve,45,F,92
-Bob,30,M,90
-Charlie,35,M,78
-David,40,M,88
-Stan,45,F,92
-Tim,,M,78
+Alice,18,F,33
+Eve,20,F,40
+Eve,20,F,40
+Bob,30,M,55
+Charlie,35,M,60
+David,40,M,70
+Stan,45,F,80
+Tim,,M,90
