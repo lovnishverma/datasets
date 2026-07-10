@@ -52,6 +52,7 @@ Prof,B,17,18,Female,122960
 AsstProf,B,10,5,Female,97032
 Prof,B,20,14,Female,127512
 Prof,A,12,0,Female,105000
+Prof,A,20,20,Male,122400
 AsstProf,A,5,3,Female,73500
 AssocProf,A,25,22,Female,62884
 AsstProf,A,2,0,Female,72500
@@ -63,15 +64,15 @@ AsstProf,B,3,3,Female,92000
 AssocProf,B,13,10,Female,103750
 AssocProf,B,14,7,Female,109650
 Prof,A,29,27,Female,91000
-AssocProf,A,26,24,Female,73300
+AssocProf,A,26,24,Female,
 Prof,A,36,19,Female,117555
 AsstProf,A,7,6,Female,63100
-Prof,A,17,11,Female,90450
+Prof,,17,11,Female,90450
 AsstProf,A,4,2,Female,77500
 Prof,A,28,7,Female,116450
 AsstProf,A,8,3,Female,78500
 AssocProf,B,12,9,Female,71065
-Prof,B,24,15,Female,161101
+Prof,B,,15,Female,161101
 Prof,B,18,10,Female,105450
 AssocProf,B,19,6,Female,104542
 Prof,B,17,17,Female,124312
