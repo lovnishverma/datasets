@@ -1,0 +1,10 @@
+Name,Age,Gender,City,Marks,Salary
+Jacky,15.0,M,Delhi,78.0,25000.0
+Raju,,M,Mumbai,85.0,45000.0
+Alexa,36.0,F,,92.0,75000.0
+Alexa,36.0,F,Bangalore,92.0,75000.0
+Elon,40.0,M,Delhi,,120000.0
+Priya,22.0,F,Chandigarh,95.0,50000.0
+Aman,28.0,M,Pune,67.0,
+Sara,19.0,,Delhi,81.0,35000.0
+John,32.0,M,Mumbai,73.0,60000.0
