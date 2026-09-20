@@ -31,6 +31,8 @@ This repository contains various datasets for data analysis, machine learning, a
 
 ## Available Datasets
 
+- [eBay Sold Comps](https://github.com/silentdirectivellc-hub/ebay-sold-comps) - 570 completed eBay sales across 9 collectible categories (Pyrex, cast iron, sterling, Fiesta, Le Creuset, Hot Wheels, CorningWare, sewing machines, retro games) as plain CSV: title, sold price, end date, condition, search keyword and the item id so any row can be re-opened on eBay. CC0, with a METHOD.md that states the sampling window and what was dropped and why.
+
 ### 1. BMI_Data.csv
    - Contains Body Mass Index (BMI) data.
    - Useful for health and fitness analysis.
